@@ -62,5 +62,5 @@ char subject<T>::getColor() const
 template<class T>
 T subject<T>::getData() const
 {
-	return data;	// ���������� ��������.
+	return data;
 }
